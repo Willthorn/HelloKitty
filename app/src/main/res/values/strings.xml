@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello Kitty</string>
+    <string name="hint">Input name</string>
+</resources>
